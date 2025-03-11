@@ -223,14 +223,15 @@
                                     android:textSize="20sp"
                                     android:textColor="@color/black"
                                     android:textStyle="bold"/>
+
                                 <TextView
                                     android:id="@+id/userAddress"
                                     android:layout_width="match_parent"
                                     android:layout_height="match_parent"
                                     android:layout_weight="1"
-                                    android:text="Bhagalpur, Bihar-812006"
-                                    android:textSize="10sp"
-                                    android:textColor="@color/black"/>
+                                    android:text="vietnam"
+                                    android:textColor="@color/black"
+                                    android:textSize="10sp" />
                             </LinearLayout>
                         </LinearLayout>
                     </androidx.cardview.widget.CardView>
@@ -263,14 +264,15 @@
                                     android:textSize="20sp"
                                     android:textColor="@color/black"
                                     android:textStyle="bold"/>
+
                                 <TextView
                                     android:id="@+id/dateOfBirthday"
                                     android:layout_width="match_parent"
                                     android:layout_height="match_parent"
                                     android:layout_weight="1"
-                                    android:text="20-10-2002"
-                                    android:textSize="15sp"
-                                    android:textColor="@color/black"/>
+                                    android:text="21-11-2003"
+                                    android:textColor="@color/black"
+                                    android:textSize="15sp" />
                             </LinearLayout>
                         </LinearLayout>
                     </androidx.cardview.widget.CardView>
